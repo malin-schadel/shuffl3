@@ -1,0 +1,31 @@
+.cards-container {
+  padding: 24px;
+  background-color: white;
+  border: 1px rgb(220, 220, 220) solid;
+  border-radius: 16px;
+  box-shadow: 0 0 16px rgb(220, 220, 220);
+  margin: 24px 0;
+}
+
+.card-shuffle {
+  padding: 40px;
+  text-align: center;
+
+  svg {
+    width: 100px;
+    height: 100px;
+    margin-bottom: 24px;
+  }
+}
+
+.card-title {
+  font-size: 32px;
+  font-weight: 600;
+  margin-bottom: 12px;
+}
+
+.card-text {
+  font-size: 12px;
+  font-weight: 600;
+  font-style: italic;
+}
